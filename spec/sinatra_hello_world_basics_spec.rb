@@ -1,3 +1,4 @@
+
 describe "GET '/'" do
   before do
     get '/'
